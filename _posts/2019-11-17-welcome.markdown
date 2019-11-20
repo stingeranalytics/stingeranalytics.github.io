@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2019-11-17 02:28:43 +0000
+categories: blog fun
+---
+Im excited to start sharing and documenting my work with others.
+
+Im not certain how much time Ill be devoting to this endevor but it sounds fun. Please check back later.
